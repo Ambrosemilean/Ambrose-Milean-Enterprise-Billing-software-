@@ -1,0 +1,20 @@
+ambrose_milean_pos/
+├── lib/
+│   ├── main.dart
+│   ├── core/
+│   │   ├── constants/
+│   │   ├── utils/
+│   │   └── theme/
+│   ├── features/
+│   │   ├── auth/
+│   │   ├── dashboard/
+│   │   ├── catalog/
+│   │   ├── barcode/
+│   │   ├── sales/
+│   │   ├── customers/
+│   │   ├── reports/
+│   │   └── settings/
+│   ├── models/
+│   ├── services/
+│   └── widgets/
+└── pubspec.yaml
