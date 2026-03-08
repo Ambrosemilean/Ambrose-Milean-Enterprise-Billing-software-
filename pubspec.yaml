@@ -1,0 +1,31 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  # Authentication & State Management
+  firebase_core: ^3.13.0
+  firebase_auth: ^5.5.1
+  provider: ^6.1.2
+  flutter_secure_storage: ^9.2.4
+  
+  # Barcode
+  mobile_scanner: ^6.0.6  # For scanning
+  barcode: ^2.2.8         # For generation
+  barcode_widget: ^2.0.4  # UI for barcodes[citation:2][citation:8]
+  
+  # Database
+  sqflite: ^2.4.2         # Local storage
+  hive: ^2.2.3            # Local caching
+  hive_flutter: ^1.1.0
+  
+  # Printing
+  pos_universal_printer: ^0.2.5  # For thermal printers[citation:7]
+  printing: ^6.3.0                # PDF generation
+  
+  # Reports Export
+  excel: ^4.0.6
+  pdf: ^3.11.3
+  syncfusion_flutter_datagrid_export: ^32.2.7[citation:4]
+  
+  # UI
+  fl_chart: ^0.70.2
+  intl: ^0.20.2
